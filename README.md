@@ -2,21 +2,18 @@
 <div id="top"></div>
             
 [![MIT License][license-shield]](https://github.com/Atugriceri/e-commerce-react-app/blob/main/LICENSE)
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/alpertugriceri/)
+<!-- [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/alpertugriceri/) -->
 
 
 <br />
 <div align="center">
-  <a href="https://github.com/Atugriceri/e-commerce-react-app">
-    <img src="https://openmoji.org/data/color/svg/1F6D2.svg" alt="Logo" width="80" height="80">
-  </a>
-  <h3 align="center">E-Commerce-React-App</h3>
+  <h3 align="center">hash-markt-React-App</h3>
 
   <p align="center">
      Shopping site project that includes basic processes such as adding to cart, adding to favorites, product listing and product detail page, which should be on an e-commerce site.
     <br />
     <br />
-    <a href="https://atugriceri-e-commerce-react-app.netlify.app/">View Demo</a>
+    <a href="https://hash-markt.netlify.app">View Demo</a>
   </p>
 </div>
 
@@ -42,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![PROJECT_SCREENSHOT_01](./src/Assets/Screenshots/Screenshot_01.jpg)
+![PROJECT_SCREENSHOT_01](./src/Assets/Screenshots/Hash-Markt-HomePage.png)
 
 An e-commerce site with basic shopping functions. You can list the products according to their categories, go to the detail page of the relevant product, add the product to your favorites and to the cart, together with the captured product data.
 
@@ -90,7 +87,7 @@ The project was developed in conjunction with React.js, including Context, Hooks
 
 You can list the products by clicking on the categories, add and remove the products to the cart and favorites. You can view the products you have added to the cart and favorites on the cart and favorites pages.
 
-[See it live!](https://atugriceri-e-commerce-react-app.netlify.app/)
+[See it live!](https://hash-markt.netlify.app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -114,19 +111,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Contact
-
-Alper Tugriçeri - [Linkedin](https://www.linkedin.com/in/alpertugriceri/) - alpertugriceri@gmail.com
-
-Project Link: [https://github.com/Atugriceri/e-commerce-react-app](https://github.com/Atugriceri/e-commerce-react-app)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * [Hero Icons](https://heroicons.com/)
+* [Headless UI](https://headlessui.com/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
