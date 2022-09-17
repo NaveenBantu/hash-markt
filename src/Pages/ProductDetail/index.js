@@ -35,7 +35,7 @@ const ProductDetail = () => {
                 <h2 className={styles.brand}>
                   BRAND
                 </h2>
-                <h1 className="text-gray-900 text-2xl font-bold tracking-tight mb-1">
+                <h1 className="text-slate-100 text-2xl font-bold tracking-tight mb-1">
                   {product.title}
                 </h1>
                 <div className={styles.rating} title={product?.rating?.rate}>
@@ -64,7 +64,7 @@ const ProductDetail = () => {
                 </p>
                 <div className="flex">
                   <div className="my-auto">
-                    <span className="font-extralight text-2xl inline-block align-middle mt-2 my-auto">
+                    <span className="font-normal text-3xl text-yellow-400 inline-block align-middle mt-2 my-auto">
                       $ {product.price}
                     </span>
                   </div>

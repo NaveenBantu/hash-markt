@@ -15,11 +15,11 @@ const Cart = () => {
         <div className="flex flex-wrap max-w-7xl mx-auto my-4">
         <div className="w-full sm:w-2/2 md:w-2/2 xl:w-5/5 p-4 h-[500px] my-auto">
             <div className={styles.cardBg}>
-              <ShoppingCartIcon className="h-40 w-40 mx-auto mt-10" />
-              <p className="text-xl font-extralight tracking-widest text-center pt-6">
+              <ShoppingCartIcon className="h-40 w-40 mx-auto mt-10 text-slate-700" />
+              <p className="text-xl text-black font-extralight tracking-widest text-center pt-6">
                 There are no products in your cart.
               </p>
-              <p className="text-center mt-2 font-bold tracking-wide">
+              <p className="text-center text-black mt-2 font-bold tracking-wide">
                 Add the products you like to the cart and buy.
               </p>
               <Link to="/">

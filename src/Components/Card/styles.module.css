@@ -15,8 +15,8 @@
   shadow-sm
   hover:shadow-md
   border-2
-  border-zinc-900/10
-  shadow-zinc-900/10
+  border-yellow-400
+  shadow-yellow-200
   rounded-md 
   overflow-hidden
   h-full
@@ -44,7 +44,7 @@
 
 .favButton {
   @apply 
-  text-zinc-900/80
+  text-slate-400
   hover:text-red-500 
   flex
 }
@@ -64,9 +64,11 @@
   inset-0
   max-h-56
   w-full 
-  object-contain
+  object-scale-down
   my-4
   px-4
+  rounded-xl
+  opacity-75
 }
 
 .cardLink img {
@@ -91,7 +93,7 @@
   flex-1 
   flex-col
   text-sm
-  text-zinc-900/80
+  text-slate-100
 }
 
 .cardBody .brand, .cardTitle {
@@ -103,7 +105,7 @@
 .brand {
   @apply  
   font-bold 
-  hover:text-blue-600
+  hover:text-yellow-300
 }
 
 .cardTitle {
@@ -144,7 +146,7 @@
 
 .priceSub, .priceTop {
   @apply
-  text-zinc-900/80
+  text-yellow-400
 }
 
 .priceSub {
@@ -158,7 +160,7 @@
 .priceTop {
   @apply 
   font-normal 
-  text-lg 
+  text-xl
   mx-0.5
   inline-block
   align-text-top
@@ -185,7 +187,7 @@
   shadow-sm
   shadow-zinc-900/10
   text-sm
-  text-zinc-50
+  text-black
   px-2
   py-2 
   hover:bg-yellow-300
@@ -193,7 +195,7 @@
 
 .addToCartButton {
   @apply 
-  bg-blue-600
+  bg-yellow-400
 }
 
 .removeButton {

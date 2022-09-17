@@ -17,10 +17,10 @@ const Favorites = () => {
           <div className="w-full sm:w-2/2 md:w-2/2 xl:w-5/5 p-4 h-[500px] my-auto">
             <div className={styles.cardBg}>
               <HeartIcon className="h-40 w-40 mx-auto mt-10 text-red-500" />
-              <p className="text-xl font-extralight tracking-widest text-center pt-6">
+              <p className="text-xl font-extralight text-black tracking-widest text-center pt-6">
                 There is no product in your favorites.
               </p>
-              <p className="text-center mt-2 font-bold tracking-wide">
+              <p className="text-center mt-2 font-bold text-black tracking-wide">
                 Add the products you like to your favorites to buy them later.
               </p>
               <Link to="/">

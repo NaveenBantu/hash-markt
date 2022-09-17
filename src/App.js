@@ -13,7 +13,7 @@ import Favorites from './Pages/Favorites'
 
 function App() {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto bg-slate-700">
       <Navbar />
       <Container>
         <Routes>
