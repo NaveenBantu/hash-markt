@@ -116,7 +116,7 @@ const Signup = () => {
               <div className={styles.linkDiv}>
                 <span>
                   Already have an account? Login{" "}
-                  <Link to="/signin" className="text-blue-600 hover:underline">
+                  <Link to="/signin" className="text-yellow-400 hover:underline">
                     {" "}
                     here.
                   </Link>

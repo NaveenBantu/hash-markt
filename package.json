@@ -1,6 +1,6 @@
 {
-  "name": "e-commerce-react-app",
-  "version": "0.1.0",
+  "name": "hash-markt-react-app",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.5.0",

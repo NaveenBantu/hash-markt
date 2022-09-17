@@ -44,7 +44,7 @@ const Navbar = () => {
                 <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
                   <div className={styles.logo}>
                     <Link className={styles.link} to="/">
-                      <h1 className='text-yellow-400 text-4xl'>#Markt</h1>
+                      <h1 className='text-yellow-400 text-4xl'>#markt</h1>
                     </Link>
                   </div>
                   <div className="hidden sm:block sm:ml-6"></div>

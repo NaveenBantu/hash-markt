@@ -58,13 +58,14 @@
   py-2 
   border 
   shadow-sm
-  border-zinc-900/10
-  shadow-zinc-900/10
-  placeholder-zinc-900/50 
+  text-slate-900
+  border-yellow-400
+  shadow-yellow-300
+  placeholder-slate-400
   rounded-md
   focus:outline-none  
-  focus:ring-1 
-  focus:ring-blue-600 
+  focus:ring-2
+  focus:ring-yellow-600 
   focus:z-10 
   sm:text-sm
 }
@@ -79,10 +80,10 @@
   shadow-zinc-900/10
   text-sm
   font-bold
-  text-zinc-50
+  text-black
   px-2
   py-2
-  bg-blue-600
+  bg-yellow-400
   hover:bg-yellow-300
 }
 
