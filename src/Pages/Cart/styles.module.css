@@ -51,11 +51,11 @@
 .bgCart { 
   @apply 
   block 
-  bg-white 
+  bg-slate-700 
   shadow-sm 
-  border-t 
-  border-stone-500/10 
-  shadow-zinc-900/10 
+  border-2
+  border-yellow-400 
+  shadow-yellow-300
   rounded-lg 
   overflow-hidden 
   h-full
