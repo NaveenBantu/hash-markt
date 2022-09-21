@@ -7,7 +7,7 @@
 
 <br />
 <div align="center">
-  <h3 align="center">hash-markt-React-App</h3>
+  <h3 align="center">Hash-Markt(Project)</h3>
 
   <p align="center">
      Shopping site project that includes basic processes such as adding to cart, adding to favorites, product listing and product detail page, which should be on an e-commerce site.
